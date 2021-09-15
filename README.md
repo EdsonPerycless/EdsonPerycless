@@ -13,7 +13,7 @@
   <img align="center" alt="Joce-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joce-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joce-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Joce-yoda" height="200" width="200" src="https://media3.giphy.com/media/3rKFa3sCvKBL7aDlN6/giphy.gifcid=ecf05e47fzsqsg8ifszhbycrrju3a80e2qj4jfos7jlhh5ag&rid=giphy.gif&ct=g">
+  <img align="right" alt="Joce-yoda" height="200" width="200" src="https://lh3.googleusercontent.com/proxy/v6PuykouZRD29r6O9uiYfynACFRbtFlYCGYO9nbqfWnHfN7exMykiHdXWqap7-JdWYqj-4h_CmcZ5HY3hCbM0WIfwtPzdbh2TmlxlpxRWWIOgg">
 </div>
   
 ##
