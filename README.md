@@ -1,6 +1,6 @@
 ### Olá! Eu Sou o Edson Perycles
 
-- 🌱 Estudando HTML/CSS/JAVASCRIPT
+- 🌱 Estudando HTML/CSS/JAVASCRIPT/REACT.JS
 
 <div>
   <a href="https://github.com/EdsonPerycless">
